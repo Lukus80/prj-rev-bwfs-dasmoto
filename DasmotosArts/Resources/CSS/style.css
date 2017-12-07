@@ -1,0 +1,38 @@
+body {
+  font-family: helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-position: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  padding: 10px;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
